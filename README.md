@@ -1,2 +1,2 @@
-# mHealth
-Project for my mHealth class.
+# mHealth Research Project 
+This is the repository for my research project done for COR4200 (Mobile Health). This project aims to develop an architecture to connect the OpenAI API and the Fitbit API. Doing so will allow us to build a RAG-like application - prompting the LLM with user data and questions. 
